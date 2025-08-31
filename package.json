@@ -1,0 +1,17 @@
+{
+  "name": "thumbnail_gen",
+  "version": "0.2.0",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "keywords": [
+    "puppeteer", "screenshot"
+  ],
+  "author": "Hugo Ferreira",
+  "license": "FREE",
+  "description": "A simple site thumbnail generator using Puppeteer.",
+  "dependencies": {
+    "puppeteer": "^24.17.1"
+  }
+}
